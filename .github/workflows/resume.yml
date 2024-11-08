@@ -5,8 +5,8 @@ on:
       - main
 
 env:
-  AWS_APP_NAME: miss-gee-resume
-  AWS_ENV_NAME: Miss-gee-resume-env
+  AWS_APP_NAME: gee-resume
+  AWS_ENV_NAME: Gee-resume-env
 
 jobs:
   deploy:
